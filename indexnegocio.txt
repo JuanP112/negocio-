@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Negocio TAE</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+    <h1>HUERTOS URBANOS</h1>
+    <h5>Bernardo Moreno</h5>
+    <hr>
+</header>
+<nav>
+<ul>
+<li><a href="#Nosotros">Introducción</a></li>
+<li><a href="#Detalles">Detalles</a></li>
+<li><a href="#Datos">Contáctanos </a></li>
+</ul>
+</nav>
+
+<section id="Nosotros">
+    <h2>SOBRE LO QUE HACEMOS:</h2>
+    <p>
+        Somos una empresa cuyo propósito es diseñar, crear y vender jardínes adaptables para el hogar y el negocio con el fin de crear un ambiente urbano más natural y saludable utilizando distintos sistemas de riego y sensores para lograr un automantenimiento eficiente que pérmita mayor flexibilidad en cuanto a cuidados y monitoreo evitando problemas comunes como la falta de riego y descuido del entorno.
+    </p>
+
+<img src="huertointeligente.jpg" alt="Ésta es la imagen de un huerto inteligente" style="width:500px">
+</section>
+
+<section id="Detalles">
+<h2>DETALLES TÉCNICOS</h2>
+<p>Éste negocio promete ofrecer servicios distintos para ayudar con el huerto en casa como la instalación y mantenimiento periódico para asegurarse de que las instalaciones funcionen de forma adecuada y que las plantas permanezcan en buene estado.</p>
+<p>El huerto utilizaría lo siguiente para su debido funcionamiento:</p>
+<ul>
+<li>Contenedores prefabricados</li>    
+<li>Sistemas de riego automáticos</li>
+<li>Bombas de agua</li>
+<li>Plantas escenciales básicas</li>
+<li>Controladores inteligentes</li>
+</ul>
+
+<table border="1">
+<tr>
+<th>VENTAJAS</th>
+<th>DESVENTAJAS</th>
+</tr>
+<th>Las plantas ayudan a purificar el ambiente</th>
+<th>Requiere mantenimiento constante</th>
+<tr>
+<th>Tiene un modelo adaptable a distintos entornos</th>
+<th>Algunas plantas son suseptibles a plagas</th>
+</tr>
+</table>
+</section>
+
+<section id="Datos">
+<h2>ENVÍA TUS DATOS</h2>
+
+<form>
+
+<label for="nombre">Nombre:</label>
+<input type="text" id="nombre">
+<br>
+<br>
+<label for="gmail">Corréo electrónico</label>
+<input type="gmail" id="gmail">
+<br>
+<br>
+<button type="submit">Enviar</button>
+
+
+
+
+
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section>
+
+
+
+
+</body>
+</html>
