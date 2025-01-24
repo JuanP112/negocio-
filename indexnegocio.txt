@@ -9,7 +9,7 @@
 <body>
     <header>
     <h1>HUERTOS URBANOS</h1>
-    <h5>Bernardo Moreno</h5>
+    <h5>Juan Pablo</h5>
     <hr>
 </header>
 <nav>
